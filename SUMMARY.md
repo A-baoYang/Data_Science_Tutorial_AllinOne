@@ -121,7 +121,7 @@
 ## 推薦系統
 
 * [前言：搜尋系統](tui-jian-xi-tong/qian-yan-sou-xun-xi-tong.md)
-* [推薦系統原理](tui-jian-xi-tong/tui-jian-xi-tong-yuan-li.md)
+* [推薦系統介紹](tui-jian-xi-tong/tui-jian-xi-tong-jie-shao.md)
 
 ## 數據相關應用職涯 <a href="data-career" id="data-career"></a>
 
