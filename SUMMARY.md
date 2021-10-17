@@ -124,6 +124,8 @@
 * [推薦系統介紹](tui-jian-xi-tong/tui-jian-xi-tong-jie-shao.md)
 * [召回算法](tui-jian-xi-tong/zhao-hui-suan-fa.md)
 * [排序算法](tui-jian-xi-tong/pai-xu-suan-fa.md)
+* [推薦系統評估指標](tui-jian-xi-tong/tui-jian-xi-tong-ping-gu-zhi-biao.md)
+* [冷啟動](tui-jian-xi-tong/leng-qi-dong.md)
 
 ## 數據相關應用職涯 <a href="data-career" id="data-career"></a>
 
