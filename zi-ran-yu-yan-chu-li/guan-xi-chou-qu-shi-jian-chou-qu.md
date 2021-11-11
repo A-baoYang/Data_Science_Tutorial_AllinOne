@@ -1,22 +1,28 @@
-# 關係抽取 及 知識圖譜相關技術總覽
+---
+description: 'done: 2/ to-do: 1, 3,4,5,6,7'
+---
 
-## 何謂關係抽取？
-
-**關係抽取**是自然語言處理其中一種技術，也是知識圖譜構建與信息提取中的「**知識獲取**」環節
+# 知識圖譜技術鏈
 
 ![知識圖譜技術鏈（https://zhuanlan.zhihu.com/p/85556255）](<../.gitbook/assets/image (68).png>)
 
-是將文本進行前處理、抽取知識的過程
+其中，知識獲取環節包含以下 NLP 技術：
 
 ![（https://zhuanlan.zhihu.com/p/85556255）](<../.gitbook/assets/image (69).png>)
 
 
 
-以下針對知識圖譜中『知識獲取』環節的 3 個要點進行介紹（實體識別、關係抽取、事件抽取）：
+### **環節二：知識獲取**
 
-### 實體識別（NER 命名實體識別）
+以下針對知識圖譜中『**知識獲取**』環節的 3 個 NLP 技術要點進行介紹
 
-Named Entities Recognition
+* 命名實體識別 NER
+* 關係抽取 RE&#x20;
+* 事件抽取 EE
+
+
+
+### 命名實體識別 Named Entities Recognition
 
 ![](<../.gitbook/assets/image (71).png>)
 
@@ -27,7 +33,7 @@ Named Entities Recognition
     * 實體類、時間類、數字類
   * 7小類
     * 人、地名、時間、組織、日期、貨幣、百分比
-  * [IOB tagging schema (inside-outside-beginning)](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_\(tagging\))
+  * [IOB tagging schema (inside-outside-beginning)](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning\_\(tagging\))
     * BIOES
       * B: begin token of the chunk（實體的開頭字）
       * I: inside token of the chunk（實體中間的字們）

@@ -106,7 +106,9 @@
   * [HanLP (python interface)](zi-ran-yu-yan-chu-li/ding-yi-yu-suan-fa/hanlp-python-interface.md)
 * [分詞算法](zi-ran-yu-yan-chu-li/fen-ci-suan-fa.md)
 * [關鍵詞萃取](zi-ran-yu-yan-chu-li/guan-jian-ci-cui-qu.md)
-* [關係抽取 及 知識圖譜相關技術總覽](zi-ran-yu-yan-chu-li/guan-xi-chou-qu-shi-jian-chou-qu.md)
+* [關係抽取](zi-ran-yu-yan-chu-li/guan-xi-chou-qu.md)
+* [事件抽取](zi-ran-yu-yan-chu-li/shi-jian-chou-qu.md)
+* [知識圖譜技術鏈](zi-ran-yu-yan-chu-li/guan-xi-chou-qu-shi-jian-chou-qu.md)
 
 ***
 
